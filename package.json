@@ -1,0 +1,19 @@
+{
+  "name": "nlw6-node",
+  "version": "1.0.0",
+  "main": "src/server.ts",
+  "repository": "git@github.com:Lucas-Vinicius27/nlw6-node.git",
+  "author": "Lucas Santos <lucas.santos@duosystem.com.br>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "ts-node-dev ."
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.12",
+    "ts-node-dev": "^1.1.6",
+    "typescript": "^4.3.4"
+  }
+}
